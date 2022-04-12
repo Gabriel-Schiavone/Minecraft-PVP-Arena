@@ -1,0 +1,5 @@
+name: Arena
+version: ${project.version}
+main: me.snazzy.arena.Main
+api-version: 1.17
+authors: [ MrSnazzy ]
